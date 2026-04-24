@@ -28,7 +28,7 @@ Atualmente, dedico meus estudos a:
 
 > *Nota: Atualmente gerencio 10 repositórios focados em transformar operações através de tecnologia.*
 
-### 🛠️ Tecnologias e Ferramentas / ### 🤖 IA & Desenvolvimento Moderno
+### 🛠️ Tecnologias, Ferramentas, 🤖 IA & Desenvolvimento Moderno
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
