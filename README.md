@@ -22,4 +22,7 @@ Atualmente, dedico meus estudos a:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-comitre/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcomitre@zohomail.com)
 
+![Status](https://img.shields.io/badge/Status-Estudando_IA_e_Dados-blue?style=flat-square)
+![Open to Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-green?style=flat-square)
+
 *"Transformando operações de TI em centros de inteligência através da automação e dados."*
