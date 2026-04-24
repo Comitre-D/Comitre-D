@@ -17,6 +17,17 @@ Atualmente, dedico meus estudos a:
 - **Bootcamp Afya/DIO:** Automação de Dados com IA (Em andamento).
 - **Aceleração Microsoft:** Gestão de Dados & IA (Microsoft/DIO).
 
+## 📁 Projetos em Destaque
+
+| Projeto | Tecnologia | Link |
+| :--- | :--- | :--- |
+| **Copiloto de Vendas** | Prompt Eng. & IA | [Ver Repositório](https://github.com/Comitre-D/Copiloto-de-Vendas-com-IA-para-Atendimento-ao-Cliente) |
+| **App de Finanças** | IA & Low-code | [Ver Repositório](https://github.com/Comitre-D/dio-lab-vibe-coding-app-financas) |
+| **Análise de Dados Santander** | Python & Pandas | [Ver Repositório](https://github.com/Comitre-D/NOME-DO-TEU-REPO) |
+| **Automação Heineken/Copilot** | AI & Data | [Ver Repositório](https://github.com/Comitre-D/NOME-DO-TEU-REPO) |
+
+> *Nota: Atualmente gerencio 10 repositórios focados em transformar operações através de tecnologia.*
+
 ---
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-comitre/)
