@@ -15,6 +15,7 @@ Atualmente, dedico meus estudos a:
 - **Bootcamp Heineken/DIO:** Inteligência Artificial Aplicada a Dados com Copilot.
 - **Bootcamp Santander/DIO:** Ciência de Dados com Python.
 - **Bootcamp Afya/DIO:** Automação de Dados com IA (Em andamento).
+- **Bootcamp CI&T/DIO:** CI&T - Do Prompt ao Agente (Em andamento).
 - **Aceleração Microsoft:** Gestão de Dados & IA (Microsoft/DIO).
 
 ## 📁 Projetos em Destaque
