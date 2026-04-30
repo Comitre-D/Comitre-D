@@ -1,7 +1,7 @@
 # Olá, eu sou o Denis Comitre 👋
 
 ## 👨‍💻 Sobre Mim
-Sou um profissional de TI com sólida bagagem em gestão de suporte e Service Desk (+20 mil ativos gerenciados). Unindo a experiência em liderança com o poder da tecnologia moderna.
+Sou um profissional de TI com sólida bagagem em gestão de serviços de TI, outsourcing e Service Desk (+20 mil ativos gerenciados). Unindo a experiência em liderança com o poder da tecnologia moderna.
 
 Atualmente, dedico meus estudos a:
 - 📉 **Análise de Dados:** SQL, Python e Power BI.
@@ -27,7 +27,7 @@ Atualmente, dedico meus estudos a:
 | **Automação Heineken/Copilot** | AI & Data | [Ver Repositório](https://github.com/Comitre-D/BOOTCAMP_HEINEKEN_DIO_DASHBOARD_VENDAS) |
 | **GEM TRADUTOR** | AI & Automação| [Ver Repositório](https://github.com/Comitre-D/Tradutor-Ingles-Portugues-x-Portugues-Ingles) |
 
-> *Nota: Atualmente gerencio 10 repositórios focados em transformar operações através de tecnologia.*
+> *Nota: Atualmente gerencio 10 repositórios focados em demonstrar as atividades de bootcamps e estudos de dados.*
 
 ### 🛠️ Tecnologias, Ferramentas, 🤖 IA & Desenvolvimento Moderno
 
